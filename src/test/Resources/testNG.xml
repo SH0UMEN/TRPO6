@@ -3,7 +3,8 @@
 <suite name="Suite1" verbose="1" >
     <test name="testClass">
         <classes>
-            <class name="Six"></class>
+            <class name="SixPositive"></class>
+            <class name="SixNegative"></class>
         </classes>
     </test>
 </suite>
